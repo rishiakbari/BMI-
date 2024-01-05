@@ -17,7 +17,7 @@ Normal	                         18.5 - 25
 Overweight	                      25 - 30
 Obese Class I	                    30 - 35
 Obese Class II	                  35 - 40
-Obese Class III	                   > 40
+Obese Class III	                    > 40
 
 # BMI table for children and teens, age 2-20
 The Centers for Disease Control and Prevention (CDC) recommends BMI categorization for children and teens between age 2 and 20.
